@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 I’m currently learning **Reactjs, Gcloud**
+- 🌱 I’m currently learning **Reactjs, servicenow**
 
-- 💬 Ask me about **Programming languages- Pyhton,C,Java Technologies-Gcloud,Fullstackk**
+- 💬 Ask me about **Programming languages- Pyhton Technologies-Gcloud,Fullstackk**
 
 - 📫 How to reach me **vineethadevavarapu@gmail.com**
 
