@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, servicenow**
 
-- 💬 Ask me about **Programming languages- Pyhton Technologies-Gcloud,Fullstackk**
+- 💬 Ask me about **Programming languages- Python Technologies-Gcloud,Fullstackk**
 
 - 📫 How to reach me **vineethadevavarapu@gmail.com**
 
